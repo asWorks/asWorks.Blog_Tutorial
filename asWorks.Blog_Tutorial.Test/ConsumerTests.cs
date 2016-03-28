@@ -20,6 +20,7 @@ namespace asWorks.Blog_Tutorial.Test
         public void Initialize()
         {
             _repositoy = new BlogRepository();
+            //Git - Change
 
         }
         [TestMethod]
